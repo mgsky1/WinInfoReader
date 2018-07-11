@@ -10,6 +10,6 @@
 > * 参考资料：
 > 1. [wmi官方文档](http://timgolden.me.uk/python/wmi/tutorial.html)
 > 2. [wmi官方示例](http://timgolden.me.uk/python/wmi/cookbook.html)
-> 3. [EasyGui学习文档【超详细中文版】鱼C工作室](http://bbs.fishc.com/thread-46069-1-1.html)
+> 3. [EasyGui学习文档【超详细中文版】鱼C工作室](http://bbs.fishc.org/thread-46069-1-1.html)
 ## Screen Shots
-![](http://xxx.fishc.com/album/201802/01/000417pxdsd99xyy0lrd7l.png)
+![](http://xxx.fishc.org/album/201802/01/000417pxdsd99xyy0lrd7l.png)
